@@ -1,0 +1,5 @@
+Z:\C#\Homework\FourthHomework\FourthHomework\bin\Debug\FourthHomework.exe.config
+Z:\C#\Homework\FourthHomework\FourthHomework\bin\Debug\FourthHomework.exe
+Z:\C#\Homework\FourthHomework\FourthHomework\bin\Debug\FourthHomework.pdb
+Z:\C#\Homework\FourthHomework\FourthHomework\obj\Debug\FourthHomework.exe
+Z:\C#\Homework\FourthHomework\FourthHomework\obj\Debug\FourthHomework.pdb
